@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/CustomLocalizer/Default.aspx) (VB: [Default.aspx.vb](./VB/CustomLocalizer/Default.aspx.vb))
+* [Default.aspx](./CS/CustomLocalizer/Default.aspx) (VB: [Default.aspx](./VB/CustomLocalizer/Default.aspx))
 * [Default.aspx.cs](./CS/CustomLocalizer/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomLocalizer/Default.aspx.vb))
 * [Global.asax.cs](./CS/CustomLocalizer/Global.asax.cs) (VB: [Global.asax.vb](./VB/CustomLocalizer/Global.asax.vb))
 * [MyEditorsLocalizer.cs](./CS/CustomLocalizer/MyEditorsLocalizer.cs) (VB: [MyEditorsLocalizer.vb](./VB/CustomLocalizer/MyEditorsLocalizer.vb))
