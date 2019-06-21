@@ -9,6 +9,9 @@
 * **[MyWebLocalizer.cs](./CS/CustomLocalizer/MyWebLocalizer.cs) (VB: [MyWebLocalizer.vb](./VB/CustomLocalizer/MyWebLocalizer.vb))**
 <!-- default file list end -->
 # How to use a custom ASPxGridView localizer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1315/)**
+<!-- run online end -->
 
 
 <p>The ASPxGridView can be localized via resources. This is the recommended approach to localization and it's described in the <a href="http://documentation.devexpress.com/#AspNet/CustomDocument3872">Localizing Developer Express ASP.NET Controls</a> help topic.</p><p>However, if you prefer to supply translations programmatically, you can define a custom Localizer class by inheriting it from ASPxGridViewLocalizer. This example demonstrates this approach in action.</p><p><strong>See Also:</strong><br />
